@@ -1,4 +1,1 @@
-# analisecredito
-# analisecredito
-# analisecredito
-# analisecredito
+# Exemplo de Análise de Crédito usando Machine Learning
