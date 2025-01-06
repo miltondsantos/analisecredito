@@ -23,3 +23,6 @@ Foi utilizado o LIME para fazer a Explicabilidade dos resultados, isto faz com q
 
 ### 2.6 API
 Uma API foi criada com o objetivo de fornecer informações a uma aplicação web (simples) para simular qualquer análise de novo cliente.
+
+## Resultado
+https://nbviewer.org/github/miltondsantos/analisecredito/blob/main/webapp.pdf
