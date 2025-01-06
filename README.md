@@ -21,5 +21,5 @@ Após os ajustes dos dados, foi criado o modelo baseado em uma rede neural artif
 ### 2.5 Explicabilidade
 Foi utilizado o LIME para fazer a Explicabilidade dos resultados, isto faz com que as informações obtidas pela previsão do modelo sejam mais facilmente entendidas.
 
-### 2.5 API
+### 2.6 API
 Uma API foi criada com o objetivo de fornecer informações a uma aplicação web (simples) para simular qualquer análise de novo cliente.
