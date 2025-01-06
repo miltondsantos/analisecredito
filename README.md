@@ -1,1 +1,1 @@
-# Exemplo de Análise de Crédito usando Machine Learning
+# Análise de Crédito utilizando Machine Learning
